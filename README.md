@@ -1,5 +1,4 @@
-# FinalProject-
-Taha And Jaafer
+# FinalProject
 # Youtube-clone
 
 ## Purpose 
